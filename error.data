@@ -1,0 +1,3378 @@
+Errorlog Mon Oct 10 20:05:22 NZDT 2016
+Service with real URI http://127.0.0.1/services/1.1/tea_taxedprice_service.owls is already in the set of registered services
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/services/1.1/tea_taxedprice_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/1personbicyclecar_price_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/book_price_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/bookpersoncreditcardaccount__service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/bookpersoncreditcardaccount_price_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/car_price_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/citycountry_hotel_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/country_skilledoccupation_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/dvdplayermp3player_price_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/EBookOrder1.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/geographical-regiongeographical-region_map_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/geopolitical-entity_weatherprocess_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/governmentdegree_scholarship_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/governmentmissile_funding_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/grocerystore_food_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/hospital_investigating_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/maxprice_cola_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/novel_author_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/preparedfood_price_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/publication-number_publication_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/recommendedprice_coffeewhiskey_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/researcher-in-academia_address_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/shoppingmall_cameraprice_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/surfing_destination_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/surfinghiking_destination_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/surfingorganization_destination_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/title_comedyfilm_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/title_videomedia_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/university_lecturer-in-academia_service.owls could not be added
+Service file:/Users/user/Downloads/OWLS-TC3/htdocs/queries/1.1/userscience-fiction-novel_price_service.owls could not be added
+class de.dfki.owlsmx.OWLSMXMatchmaker|addService: Could not add service from this URIhttp://127.0.0.1/services/1.1/meat_taxedpricequantity_Aldiservice.owls
+class de.dfki.owlsmx.OWLSMXMatchmaker|addService: Could not add service from this URIhttp://127.0.0.1/services/1.1/beverage_maxpricephysical-quantity_Aldiservice.owls
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index review
+        Classes: 43
+        term not in index review
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index acknowledgement
+        Classes: 43
+        term not in index acknowledgement
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index bicycl
+        Classes: 43
+        term not in index bicycle
+        idf: 1.0
+getIDF: stemmed term not in index onepersonbicycl
+        Classes: 43
+        term not in index onepersonbicycle
+        idf: 1.0
+getIDF: stemmed term not in index review
+        Classes: 43
+        term not in index review
+        idf: 1.0
+getIDF: stemmed term not in index acknowledgement
+        Classes: 43
+        term not in index acknowledgement
+        idf: 1.0
+getIDF: stemmed term not in index review
+        Classes: 43
+        term not in index review
+        idf: 1.0
+getIDF: stemmed term not in index acknowledgement
+        Classes: 43
+        term not in index acknowledgement
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index review
+        Classes: 43
+        term not in index review
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index acknowledgement
+        Classes: 43
+        term not in index acknowledgement
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index creditaccount
+        Classes: 43
+        term not in index creditaccount
+        idf: 1.0
+getIDF: stemmed term not in index financialaccount
+        Classes: 43
+        term not in index financialaccount
+        idf: 1.0
+getIDF: stemmed term not in index liabilityaccount
+        Classes: 43
+        term not in index liabilityaccount
+        idf: 1.0
+getIDF: stemmed term not in index personand
+        Classes: 43
+        term not in index personand
+        idf: 1.0
+getIDF: stemmed term not in index creditcardaccount
+        Classes: 43
+        term not in index creditcardaccount
+        idf: 1.0
+getIDF: stemmed term not in index review
+        Classes: 43
+        term not in index review
+        idf: 1.0
+getIDF: stemmed term not in index acknowledgement
+        Classes: 43
+        term not in index acknowledgement
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index review
+        Classes: 43
+        term not in index review
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index acknowledgement
+        Classes: 43
+        term not in index acknowledgement
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index city
+        Classes: 43
+        term not in index city
+        idf: 1.0
+getIDF: stemmed term not in index accommodation
+        Classes: 43
+        term not in index accommodation
+        idf: 1.0
+getIDF: stemmed term not in index hotel
+        Classes: 43
+        term not in index hotel
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index review
+        Classes: 43
+        term not in index review
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index acknowledgement
+        Classes: 43
+        term not in index acknowledgement
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index country
+        Classes: 43
+        term not in index country
+        idf: 1.0
+getIDF: stemmed term not in index review
+        Classes: 43
+        term not in index review
+        idf: 1.0
+getIDF: stemmed term not in index acknowledgement
+        Classes: 43
+        term not in index acknowledgement
+        idf: 1.0
+getIDF: stemmed term not in index review
+        Classes: 43
+        term not in index review
+        idf: 1.0
+getIDF: stemmed term not in index acknowledgement
+        Classes: 43
+        term not in index acknowledgement
+        idf: 1.0
+getIDF: stemmed term not in index review
+        Classes: 43
+        term not in index review
+        idf: 1.0
+getIDF: stemmed term not in index acknowledgement
+        Classes: 43
+        term not in index acknowledgement
+        idf: 1.0
+getIDF: stemmed term not in index review
+        Classes: 43
+        term not in index review
+        idf: 1.0
+getIDF: stemmed term not in index acknowledgement
+        Classes: 43
+        term not in index acknowledgement
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index review
+        Classes: 43
+        term not in index review
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index acknowledgement
+        Classes: 43
+        term not in index acknowledgement
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index weapon
+        Classes: 43
+        term not in index weapon
+        idf: 1.0
+getIDF: stemmed term not in index missil
+        Classes: 43
+        term not in index missile
+        idf: 1.0
+getIDF: stemmed term not in index selfpowereddevic
+        Classes: 43
+        term not in index selfpowereddevice
+        idf: 1.0
+getIDF: stemmed term not in index projectil
+        Classes: 43
+        term not in index projectile
+        idf: 1.0
+getIDF: stemmed term not in index review
+        Classes: 43
+        term not in index review
+        idf: 1.0
+getIDF: stemmed term not in index acknowledgement
+        Classes: 43
+        term not in index acknowledgement
+        idf: 1.0
+getIDF: stemmed term not in index review
+        Classes: 43
+        term not in index review
+        idf: 1.0
+getIDF: stemmed term not in index acknowledgement
+        Classes: 43
+        term not in index acknowledgement
+        idf: 1.0
+getIDF: stemmed term not in index review
+        Classes: 43
+        term not in index review
+        idf: 1.0
+getIDF: stemmed term not in index acknowledgement
+        Classes: 43
+        term not in index acknowledgement
+        idf: 1.0

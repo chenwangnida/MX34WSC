@@ -1,0 +1,19 @@
+Dependencies of OWLS-MX GUI
+---------------------------
+OWLS-MX GUI depends on several external libaries. Similar to the libaries OWLS-MX itself depends on, 
+they are included  in each release. Most of these libaries are needed for displaying the graphs in
+the result tab. Hence if you do not need these you can recompile the GUI without the libaries by
+just removing the result tab (ResultVisualization).
+
+JFreeChart - http://www.jfree.org/jfreechart/
+Used for displaying the graphs and for saving them to JPG and PNG
+
+iText - http://www.lowagie.com/iText/
+Saving a Graphics2D object to PDF, in our case the graphs
+
+Java EPS Graphics 2D package - http://www.jibble.org/epsgraphics/
+Saving a Graphics2D object to EPS, in our case the graphs
+
+Netbeans Absolute Layout - http://www.netbeans.org
+Used for easier development of the GUI-layout
+

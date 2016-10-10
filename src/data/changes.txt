@@ -1,0 +1,51 @@
+Version 1.1c
+------------
+- added functionality for testing data type compatibility on the WSDL grounding level (OWLS-MXP)
+- added WSDL grounding browser, which is accessible from the Services, Requests and Answer set tabs
+- registered services and requests now display an icon in the list, which illustrates, whether the service has a WSDL grounding or not
+
+Version 1.1b
+------------
+- check results
+- adding relevant service via loading a directory of services (without duplicates)
+- Mehrfach ausführen von Abfragen fehlerhaft, da der Matchmaker nicht neu initialisiert wurde.
+  Behoben durch zwangsneuinitialisierung vor dem Hinzufügen der Services
+
+
+Know Bugs
+- issues with displaying recall pecision
+- remove query => delete answerset
+
+Version 1.1
+-----------
+Done
+- Splash screen adjusted, especially alignment logo and text
+- Disabled incomplete wizard
+- Disabled incomplete Helpmenu
+- Resized the TabbedPane and its content to fit to new overall size
+- Relevant set: Feature "Relevant set for query xxx"
+- Fixed title of main window
+- Test collection: Clear TC
+- Test collection: updated layout
+- Result: Saving result image as JPG, PNG, EPS, PDF
+- Result: Launch new window
+- Result: Update displayed graph
+- Service Requests: Mark all checkbox
+- Registerd Services: Mark all checkbox
+- Relevant set: Mark all checkbox
+- Result: Saving result as txt file
+- Result: Fixed display of queries
+- Settings: Replace URI can smash the entire Programm
+- Task: Update tasks: Service matchmaking, service retrieval test collection, service retrieval performance
+
+To do
+- Test collection: Clear TC
+- Task: OnMouseOver explanation of different tasks
+- General: Connection between GUI and OWLS-MX matchmaker
+
+
+Features planned for 1.2
+- Result: Explain why a service is relevant
+- Wizard: Write texts for wizard
+- Help: Write texts for help
+- In Answerset tab: Add total number of retrieved services to query node

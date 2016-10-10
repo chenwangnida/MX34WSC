@@ -1,0 +1,12 @@
+NO_TASK;Select task;1;1;TASK;Taskselection;On this screen you can select the avaible tasks which can be performed with the help of the wizard.
+QUERY_TASK;Run query;5;1;TASK;Initial screen;Lorem Ipsum Lorem Ipsum
+QUERY_TASK;Run query;5;2;SERVICES;Secondary screen;Lorem Ipsum Lorem Ipsum
+QUERY_TASK;Run query;5;3;QUERIES;Third screen;Lorem Ipsum Lorem Ipsum
+QUERY_TASK;Run query;5;4;ANSWERSET;Fourth screen;Lorem Ipsum Lorem Ipsum
+QUERY_TASK;Run query;5;5;TESTCOLLECTION;Fifth screen;Lorem Ipsum Lorem Ipsum
+CREATE_TC_TASK;Create testcollection;5;1;TASK;Initial screen;Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
+CREATE_TC_TASK;Create testcollection;5;2;SERVICES;Secondary screen;Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
+CREATE_TC_TASK;Create testcollection;5;3;QUERIES;Third screen;Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
+CREATE_TC_TASK;Create testcollection;5;4;ANSWERSET;Fourth screen;Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
+CREATE_TC_TASK;Create testcollection;5;5;TESTCOLLECTION;Fifth screen;Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
+RUN_TEST_TASK;Run test;6;1;TASK;Initial screen;Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum

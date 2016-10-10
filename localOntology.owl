@@ -1,0 +1,813 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:list="http://www.daml.org/services/owl-s/1.1/generic/ObjectList.owl#"
+    xmlns:expression="http://www.daml.org/services/owl-s/1.1/generic/Expression.owl#"
+    xmlns:profile="http://www.daml.org/services/owl-s/1.1/Profile.owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:process="http://www.daml.org/services/owl-s/1.1/Process.owl#"
+    xmlns:grounding="http://www.daml.org/services/owl-s/1.1/Grounding.owl#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+    xmlns:service="http://www.daml.org/services/owl-s/1.1/Service.owl#"
+    xmlns:daml="http://www.daml.org/2001/03/daml+oil#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Class rdf:about="http://127.0.0.1/ontology/support.owl#Intangible-Thing">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/support.owl#Thing"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <rdf:Property rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Power"/>
+  <owl:Restriction>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Wheel"/>
+    </owl:onProperty>
+    <owl:maxCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >4</owl:maxCardinality>
+  </owl:Restriction>
+  <owl:Restriction>
+    <owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >1</owl:minCardinality>
+    <owl:onProperty>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Color">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+      </owl:Class>
+    </owl:onProperty>
+  </owl:Restriction>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/travel.owl#RuralArea">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/travel.owl#Destination"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <rdf:Property rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Engine"/>
+  <owl:Restriction>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/concept.owl#amount"/>
+    </owl:onProperty>
+  </owl:Restriction>
+  <owl:Restriction>
+    <owl:onProperty rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#Power"/>
+    <owl:allValuesFrom rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#MoveableThing"/>
+  </owl:Restriction>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Investigating">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#IntentionalPsychologicalProcess">
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#IntentionalProcess">
+            <rdfs:subClassOf>
+              <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Process">
+                <rdfs:subClassOf>
+                  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Physical">
+                    <rdfs:subClassOf>
+                      <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Entity"/>
+                    </rdfs:subClassOf>
+                  </owl:Class>
+                </rdfs:subClassOf>
+              </owl:Class>
+            </rdfs:subClassOf>
+          </owl:Class>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#PsychologicalProcess">
+            <rdfs:subClassOf>
+              <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#BiologicalProcess">
+                <rdfs:subClassOf>
+                  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#InternalChange">
+                    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Process"/>
+                  </owl:Class>
+                </rdfs:subClassOf>
+              </owl:Class>
+            </rdfs:subClassOf>
+          </owl:Class>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/concept.owl#UntangibleObjects"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#FullTimePosition">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Position">
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#SocialRole">
+            <rdfs:subClassOf>
+              <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#RelationalAttribute">
+                <rdfs:subClassOf>
+                  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Attribute"/>
+                </rdfs:subClassOf>
+              </owl:Class>
+            </rdfs:subClassOf>
+          </owl:Class>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Restriction>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Person"/>
+    </owl:onProperty>
+    <owl:maxCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >5</owl:maxCardinality>
+  </owl:Restriction>
+  <owl:Restriction>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Shape"/>
+    </owl:onProperty>
+    <owl:allValuesFrom rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#DesignedThing"/>
+  </owl:Restriction>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#StationaryArtifact">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Artifact">
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#CorpuscularObject">
+            <rdfs:subClassOf>
+              <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#SelfConnectedObject">
+                <rdfs:subClassOf>
+                  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Object">
+                    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Physical"/>
+                  </owl:Class>
+                </rdfs:subClassOf>
+              </owl:Class>
+            </rdfs:subClassOf>
+          </owl:Class>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/travel.owl#Activity"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Vehicle">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Class>
+  <owl:Restriction>
+    <owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >1</owl:minCardinality>
+    <owl:onProperty rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#Engine"/>
+  </owl:Restriction>
+  <rdf:Property rdf:about="http://127.0.0.1/ontology/portal.owl#headed-by"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#VideoMedia">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Media"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/simplified_sumo.owl#Object">
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/simplified_sumo.owl#Physical">
+            <rdfs:subClassOf>
+              <owl:Class rdf:about="http://127.0.0.1/ontology/simplified_sumo.owl#Entity"/>
+            </rdfs:subClassOf>
+          </owl:Class>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Restriction>
+    <owl:allValuesFrom rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#MoveableThing"/>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Speed"/>
+    </owl:onProperty>
+  </owl:Restriction>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Organization">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Group">
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Agent">
+            <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Object"/>
+          </owl:Class>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Collection">
+            <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Object"/>
+          </owl:Class>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#CognitiveAgent">
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#SentientAgent">
+            <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Agent"/>
+          </owl:Class>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Restriction>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Profitable"/>
+    </owl:onProperty>
+    <owl:allValuesFrom rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#DesignedThing"/>
+  </owl:Restriction>
+  <rdf:Property rdf:about="http://127.0.0.1/ontology/books.owl#datePublished"/>
+  <owl:Restriction>
+    <owl:allValuesFrom rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#DesignedThing"/>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/my_ontology.owl#LifeTime"/>
+    </owl:onProperty>
+  </owl:Restriction>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#PhysicalQuantity">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Quantity">
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Abstract"/>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Restriction>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/my_ontology.owl#madeBy"/>
+    </owl:onProperty>
+    <owl:allValuesFrom rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#Company"/>
+  </owl:Restriction>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/simplified_sumo.owl#SelfConnectedObject">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/simplified_sumo.owl#Object"/>
+  </owl:Class>
+  <owl:Restriction>
+    <owl:allValuesFrom>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/books.owl#Person"/>
+    </owl:allValuesFrom>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/my_ontology.owl#belongsTo"/>
+    </owl:onProperty>
+  </owl:Restriction>
+  <owl:Restriction>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Rigid"/>
+    </owl:onProperty>
+    <owl:allValuesFrom rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#DesignedThing"/>
+  </owl:Restriction>
+  <owl:Restriction>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/my_ontology.owl#hasValue"/>
+    </owl:onProperty>
+    <owl:allValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </owl:Restriction>
+  <owl:Restriction>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Model"/>
+    </owl:onProperty>
+    <owl:allValuesFrom rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#DesignedThing"/>
+  </owl:Restriction>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#ChangeOfPossession">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#SocialInteraction">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#IntentionalProcess"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Restriction>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/concept.owl#Fine"/>
+    </owl:onProperty>
+  </owl:Restriction>
+  <owl:Restriction>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/concept.owl#currency"/>
+    </owl:onProperty>
+    <owl:someValuesFrom rdf:resource="http://www.daml.ecs.soton.ac.uk/ont/currency.owl#Currency"/>
+  </owl:Restriction>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/support.owl#Quantity">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/support.owl#Intangible-Thing"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Amount-Of-Money">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/support.owl#Physical-Quantity">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/support.owl#Quantity"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Drinks">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Liquid"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Restriction>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/support.owl#has-unit-of-measure"/>
+    </owl:onProperty>
+    <owl:allValuesFrom rdf:resource="http://127.0.0.1/ontology/portal.owl#Currency"/>
+  </owl:Restriction>
+  <rdf:Property rdf:about="http://127.0.0.1/ontology/books.owl#hasType"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Researcher">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Working-Person">
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Person">
+            <rdfs:subClassOf>
+              <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Legal-Agent">
+                <rdfs:subClassOf>
+                  <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Generic-Agent">
+                    <rdfs:subClassOf>
+                      <owl:Class rdf:about="http://127.0.0.1/ontology/support.owl#Temporal-Thing">
+                        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/support.owl#Thing"/>
+                      </owl:Class>
+                    </rdfs:subClassOf>
+                  </owl:Class>
+                </rdfs:subClassOf>
+              </owl:Class>
+            </rdfs:subClassOf>
+            <rdfs:subClassOf>
+              <owl:Class rdf:about="http://127.0.0.1/ontology/support.owl#Tangible-Thing">
+                <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/support.owl#Temporal-Thing"/>
+              </owl:Class>
+            </rdfs:subClassOf>
+          </owl:Class>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/simplified_sumo.owl#Artifact">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/simplified_sumo.owl#CorpuscularObject">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/simplified_sumo.owl#SelfConnectedObject"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Motion">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Process"/>
+  </owl:Class>
+  <rdf:Property rdf:about="http://127.0.0.1/ontology/portal.owl#has-affiliation"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#Map">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Icon">
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#ContentBearingObject">
+            <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#CorpuscularObject"/>
+          </owl:Class>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Machine">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/simplified_sumo.owl#Object"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Educational-Organization">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Learning-Centred-Organization">
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Organization">
+            <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/portal.owl#Legal-Agent"/>
+          </owl:Class>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Transportation">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Translocation">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Motion"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Researcher-In-Academia">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/portal.owl#Researcher"/>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Academic">
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Educational-Employee">
+            <rdfs:subClassOf>
+              <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Employee">
+                <rdfs:subClassOf>
+                  <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Affiliated-Person">
+                    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/portal.owl#Person"/>
+                  </owl:Class>
+                </rdfs:subClassOf>
+                <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/portal.owl#Working-Person"/>
+              </owl:Class>
+            </rdfs:subClassOf>
+          </owl:Class>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#FinancialAccount"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/concept.owl#RecommendedPrice">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/concept.owl#Price">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/concept.owl#UntangibleObjects"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/concept.owl#RecommendedPriceInDollar">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/concept.owl#RecommendedPrice"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/simplified_sumo.owl#Device">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/simplified_sumo.owl#Artifact"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#CommercialAgent">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Agent"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Location">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/support.owl#Tangible-Thing"/>
+  </owl:Class>
+  <owl:Restriction>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/portal.owl#has-size"/>
+    </owl:onProperty>
+    <owl:allValuesFrom rdf:resource="http://127.0.0.1/ontology/portal.owl#Organization-Size"/>
+  </owl:Restriction>
+  <owl:Restriction>
+    <owl:onProperty rdf:resource="http://127.0.0.1/ontology/portal.owl#headed-by"/>
+    <owl:allValuesFrom rdf:resource="http://127.0.0.1/ontology/portal.owl#Affiliated-Person"/>
+  </owl:Restriction>
+  <rdf:Property rdf:about="http://127.0.0.1/ontology/books.owl#timePublished"/>
+  <owl:Restriction>
+    <owl:allValuesFrom rdf:resource="http://127.0.0.1/ontology/portal.owl#Affiliated-Person"/>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/portal.owl#affiliated-person"/>
+    </owl:onProperty>
+  </owl:Restriction>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Giving">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#ChangeOfPossession"/>
+  </owl:Class>
+  <owl:Restriction>
+    <owl:cardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >1</owl:cardinality>
+    <owl:onProperty rdf:resource="http://127.0.0.1/ontology/portal.owl#has-size"/>
+  </owl:Restriction>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#RetailStore">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#MercantileOrganization">
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Corporation">
+            <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#CommercialAgent"/>
+            <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Organization"/>
+          </owl:Class>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Restriction>
+    <owl:onProperty>
+      <rdf:Property rdf:about="http://127.0.0.1/ontology/portal.owl#has-sub-unit"/>
+    </owl:onProperty>
+    <owl:allValuesFrom rdf:resource="http://127.0.0.1/ontology/portal.owl#Organization-Unit"/>
+  </owl:Restriction>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Funding">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Giving"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#FourWheeledCar">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Car">
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Auto">
+            <rdfs:subClassOf>
+              <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#PeopleTransporter">
+                <rdfs:subClassOf>
+                  <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Transporter"/>
+                </rdfs:subClassOf>
+              </owl:Class>
+            </rdfs:subClassOf>
+            <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#Machine"/>
+            <rdfs:subClassOf>
+              <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#WheeledVehicle">
+                <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#Vehicle"/>
+              </owl:Class>
+            </rdfs:subClassOf>
+          </owl:Class>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Text">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#LinguisticExpression">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#ContentBearingObject"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Artifact"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Residence">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#StationaryArtifact"/>
+  </owl:Class>
+  <rdf:Property rdf:about="http://127.0.0.1/ontology/books.owl#writtenBy"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Geopolitical-Entity">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/portal.owl#Generic-Agent"/>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Geographical-Region">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/portal.owl#Location"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/simplified_sumo.owl#ElectricDevice">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/simplified_sumo.owl#Device"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#Shipping">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Transportation"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#GovernmentOrganization">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Organization"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/travel.owl#Accommodation"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#MP3Player">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#MediaPlayer">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/simplified_sumo.owl#ElectricDevice"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Film">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#Media"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Address">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Abstract-Information">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/support.owl#Intangible-Thing"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <rdf:Property rdf:about="http://127.0.0.1/ontology/travel.owl#hasAccommodation"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/NonMedicalFlightCompanyOntology.owl#Number"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#obtainableVideoMedia">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#VideoMedia"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/NonMedicalFlightCompanyOntology.owl#AccountPassword"/>
+  <rdf:Property rdf:about="http://127.0.0.1/ontology/travel.owl#hasActivity"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/travel.owl#Hotel">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/travel.owl#Accommodation"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/finance_th_web.owl#organization">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/finance_th_web.owl#financial_agent">
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/finance_th_web.owl#agent">
+            <rdfs:subClassOf>
+              <owl:Class rdf:about="http://127.0.0.1/ontology/finance_th_web.owl#thing"/>
+            </rdfs:subClassOf>
+          </owl:Class>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Cycle">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/simplified_sumo.owl#Object"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Whiskey">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#Drinks"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/travel.owl#Sports">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/travel.owl#Activity"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Government">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#GovernmentOrganization"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/books.owl#Monograph">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/books.owl#Publication">
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/books.owl#PrintedMaterial">
+            <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/simplified_sumo.owl#Object"/>
+          </owl:Class>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/concept.owl#TaxedPrice">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/concept.owl#Price"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/concept.owl#RecommendedPriceInEuro">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/concept.owl#RecommendedPrice"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/travel.owl#Hiking">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/travel.owl#Sports"/>
+  </owl:Class>
+  <rdf:Property rdf:about="http://127.0.0.1/ontology/portal.owl#organization-part-of"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Beer">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#Liquid"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/books.owl#LinguisticExpression">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/books.owl#ExpressionContent"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <rdf:Property rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Title"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/books.owl#Reader">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/books.owl#Person"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/NonMedicalFlightCompanyOntology.owl#CreditCardNumber">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/NonMedicalFlightCompanyOntology.owl#Number"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/PatientOntology.owl#Authorization"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/books.owl#User">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/books.owl#Person"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#DiagnosticProcess">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Investigating"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/NonMedicalFlightCompanyOntology.owl#DateTime"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#TimeMeasure">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#ConstantQuantity">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#PhysicalQuantity"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#CareOrganization">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Organization"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Municipal-Unit">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/portal.owl#Geopolitical-Entity"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#DVDPlayer">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#MediaPlayer"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#ColaBeer">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#Beer"/>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Cola">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#Drinks"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#OnePersonBicycle">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Bicycle">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#Cycle"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/PatientOntology.owl#DateTime"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#TimePosition">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#TimeMeasure"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#Drought">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#WeatherProcess">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Motion"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Year">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#TimeInterval">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#TimePosition"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <rdf:Property rdf:about="http://127.0.0.1/ontology/books.owl#hasSize"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/NonMedicalFlightCompanyOntology.owl#AccountName"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#Missile">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#Projectile">
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Weapon">
+            <rdfs:subClassOf>
+              <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Device">
+                <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Artifact"/>
+              </owl:Class>
+            </rdfs:subClassOf>
+          </owl:Class>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#SelfPoweredDevice">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Device"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#CreditCardAccount">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#CreditAccount">
+        <rdfs:subClassOf>
+          <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#LiabilityAccount">
+            <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/Mid-level-ontology.owl#FinancialAccount"/>
+          </owl:Class>
+        </rdfs:subClassOf>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Degree">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#Award">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/support.owl#Intangible-Thing"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#Coffee">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#Drinks"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#WeatherSystem">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#WeatherProcess"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#Food">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#SelfConnectedObject"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/books.owl#Review"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/concept.owl#MaxPrice">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/concept.owl#Price"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/my_ontology.owl#FastCar">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#Car"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/PatientOntology.owl#MedicalRecords"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/NonMedicalFlightCompanyOntology.owl#Name"/>
+  <rdf:Property rdf:about="http://127.0.0.1/ontology/portal.owl#works-for"/>
+  <owl:Restriction>
+    <owl:onProperty rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#Wheel"/>
+    <owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >2</owl:minCardinality>
+  </owl:Restriction>
+  <owl:Restriction>
+    <owl:onProperty rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#Person"/>
+    <owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >1</owl:minCardinality>
+  </owl:Restriction>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/books.owl#ScienceFictionBook">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/books.owl#Book">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/books.owl#Monograph"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/portal.owl#City">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/portal.owl#Municipal-Unit"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/finance_th_web.owl#quality">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/finance_th_web.owl#thing"/>
+  </owl:Class>
+  <owl:Restriction>
+    <owl:onProperty rdf:resource="http://127.0.0.1/ontology/portal.owl#has-affiliation"/>
+    <owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >1</owl:minCardinality>
+  </owl:Restriction>
+  <owl:Restriction>
+    <owl:onProperty rdf:resource="http://127.0.0.1/ontology/portal.owl#works-for"/>
+    <owl:allValuesFrom rdf:resource="http://127.0.0.1/ontology/portal.owl#Higher-Educational-Organization"/>
+  </owl:Restriction>
+  <owl:Restriction>
+    <owl:onProperty rdf:resource="http://127.0.0.1/ontology/portal.owl#works-for"/>
+    <owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >1</owl:minCardinality>
+  </owl:Restriction>
+  <owl:Restriction>
+    <owl:onProperty rdf:resource="http://127.0.0.1/ontology/portal.owl#works-for"/>
+    <owl:allValuesFrom rdf:resource="http://127.0.0.1/ontology/portal.owl#Educational-Organization"/>
+  </owl:Restriction>
+  <owl:Restriction>
+    <owl:onProperty rdf:resource="http://127.0.0.1/ontology/portal.owl#organization-part-of"/>
+    <owl:allValuesFrom rdf:resource="http://127.0.0.1/ontology/portal.owl#Organization"/>
+  </owl:Restriction>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/PatientOntology.owl#PhysicianID">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/PatientOntology.owl#Number"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#Profession">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#SkilledOccupation">
+        <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Position"/>
+      </owl:Class>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/travel.owl#UrbanArea">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/travel.owl#Destination"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/PatientOntology.owl#Acknowledgement"/>
+  <rdf:Property rdf:about="http://127.0.0.1/ontology/books.owl#publishedBy"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/books.owl#Novel">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/books.owl#Book"/>
+  </owl:Class>
+  <owl:Restriction>
+    <owl:onProperty rdf:resource="http://127.0.0.1/ontology/books.owl#hasSize"/>
+    <owl:allValuesFrom rdf:resource="http://127.0.0.1/ontology/books.owl#Medium"/>
+  </owl:Restriction>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/NonMedicalFlightCompanyOntology.owl#PersonName">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/NonMedicalFlightCompanyOntology.owl#Name"/>
+  </owl:Class>
+  <owl:Restriction>
+    <owl:onProperty rdf:resource="http://127.0.0.1/ontology/my_ontology.owl#Title"/>
+    <owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >1</owl:minCardinality>
+  </owl:Restriction>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/books.owl#Title">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/books.owl#LinguisticExpression"/>
+  </owl:Class>
+  <rdf:Property rdf:about="http://127.0.0.1/ontology/books.owl#isTitled"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/NonMedicalFlightCompanyOntology.owl#Account"/>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/SUMO.owl#UnilateralGiving">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Giving"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#PreparedFood">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/SUMO.owl#Food"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/books.owl#Author">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/books.owl#Person"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/Mid-level-ontology.owl#GroceryStore">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/Mid-level-ontology.owl#RetailStore"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/travel.owl#NationalPark">
+    <rdfs:subClassOf rdf:resource="http://127.0.0.1/ontology/travel.owl#RuralArea"/>
+  </owl:Class>
+  <owl:Restriction>
+    <owl:onProperty rdf:resource="http://127.0.0.1/ontology/travel.owl#hasActivity"/>
+    <owl:someValuesFrom rdf:resource="http://127.0.0.1/ontology/travel.owl#Hiking"/>
+  </owl:Restriction>
+  <owl:Restriction>
+    <owl:onProperty rdf:resource="http://127.0.0.1/ontology/travel.owl#hasAccommodation"/>
+    <owl:someValuesFrom rdf:resource="http://127.0.0.1/ontology/travel.owl#Campground"/>
+  </owl:Restriction>
+  <owl:Class rdf:about="http://127.0.0.1/ontology/Non
